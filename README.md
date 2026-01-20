@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/930bb271-9531-421c-aaa3-6acf14fc3930" />
+
 # MemoryBridge v1.0
 
 **Cross-Agent Shared Memory API for Team Brain**
@@ -554,6 +556,9 @@ pip install .
 ```
 
 ---
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/880464dd-140e-4ca0-9a9d-37e5ad28a341" />
+
 
 ## 🤝 **Contributing**
 
